@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ResponsivePage/static/css/main.209ca337.chunk.css",
+    "main.js": "/ResponsivePage/static/js/main.5c9f571b.chunk.js",
+    "main.js.map": "/ResponsivePage/static/js/main.5c9f571b.chunk.js.map",
+    "runtime-main.js": "/ResponsivePage/static/js/runtime-main.483cc286.js",
+    "runtime-main.js.map": "/ResponsivePage/static/js/runtime-main.483cc286.js.map",
+    "static/css/2.818011ed.chunk.css": "/ResponsivePage/static/css/2.818011ed.chunk.css",
+    "static/js/2.5985a180.chunk.js": "/ResponsivePage/static/js/2.5985a180.chunk.js",
+    "static/js/2.5985a180.chunk.js.map": "/ResponsivePage/static/js/2.5985a180.chunk.js.map",
+    "static/js/3.00eac166.chunk.js": "/ResponsivePage/static/js/3.00eac166.chunk.js",
+    "static/js/3.00eac166.chunk.js.map": "/ResponsivePage/static/js/3.00eac166.chunk.js.map",
+    "index.html": "/ResponsivePage/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/ResponsivePage/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.209ca337.chunk.css.map": "/ResponsivePage/static/css/main.209ca337.chunk.css.map",
+    "static/js/2.5985a180.chunk.js.LICENSE.txt": "/ResponsivePage/static/js/2.5985a180.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.483cc286.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.5985a180.chunk.js",
+    "static/css/main.209ca337.chunk.css",
+    "static/js/main.5c9f571b.chunk.js"
+  ]
+}
